@@ -1,0 +1,96 @@
+/*html {
+  background-image: url("/paper-3155438_1920.jpg");
+  background-attachment: fixed;
+  background-position: bottom right;
+  background-repeat: repeat;
+  overflow-y: scroll;
+  font-family: Arial, Helvetica, sans-serif; */
+  
+  @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Fuggles&family=Martian+Mono:wght@300&family=Oooh+Baby&family=Open+Sans:ital,wght@1,500&family=Pacifico&family=Princess+Sofia&family=Quicksand&family=Roboto+Serif:opsz,wght@8..144,100&family=Roboto+Slab:wght@100&family=Rubik+Gemstones&family=Sedgwick+Ave+Display&family=Sofia&family=Unbounded:wght@300&display=swap');
+
+  
+body{
+  margin: 0;
+  padding: 0;
+  font-family:'Quicksand', 'Times New Roman', Times, serif;
+}
+
+#title {
+  font-size: 40px;
+}
+
+ #section1 {
+ background-color: antiquewhite;
+ font-size: 60px;
+ height: 100vh;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ }
+
+ .section {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 40px;
+
+}
+
+#section2 {
+  background-color: rgb(253, 139, 63);
+}
+
+#section3{
+  background-color: antiquewhite;
+}
+
+#section4 {
+  background-color: rgb(253, 139, 63);
+}
+
+input {
+  font-size: 30px;
+  border-radius: 10px;
+}
+
+textarea{
+  font-size: 30px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.p {
+  font-size: 20px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 3rem;
+  width: 20px;
+  height: 20px;
+  text-decoration: none;
+}
+
+.fa:hover {
+  opacity: 0.5;
+}
+
+.fa-facebook {
+  color: black;
+}
+
+.fa-linkedin {
+  color: black;
+}
+
+.fa-github {
+  color: black;
+}
+
+.social-icons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
